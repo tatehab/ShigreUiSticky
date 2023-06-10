@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>button.png</file>
+    <file>button.png</file>
+    <file>close.png</file>
+    <file>expansion.png</file>
+    <file>icon.png</file>
+    <file>minimize.png</file>
+    <file>expansion.png</file>
+    <file>icon.png</file>
+    <file>minimize.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="newPrefix">
+    <file>close.png</file>
+    <file>expansion.png</file>
+    <file>minimize.png</file>
+  </qresource>
+</RCC>
