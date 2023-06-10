@@ -1,6 +1,3 @@
-
-#https://unpyside.com/blog/2017/11/21/qtsimpleevent/
-
 from PyQt5 import QtWidgets, uic
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
