@@ -1,4 +1,4 @@
-# ShigreUiStickyとは
+# ShigreUIStickyとは
 ファンメイド付箋ソフトです。
 
 ![Test Image 2](image.png)
